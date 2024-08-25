@@ -17,6 +17,9 @@
     <img src="https://tokei.rs/b1/github/MeteorDevelopment/meteor-client" alt="GitHub lines of code"/>
 </div>
 
+# What is this
+This is Meteor Client of version `0.5.6` with applied commit that fixes issue with binding on x11 from `0.5.7`, because I wanna use this version as `0.5.7` doesn't support minecraft `1.20.4`.
+
 ## Usage
 
 ### Building
